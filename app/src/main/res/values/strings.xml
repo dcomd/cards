@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Cards</string>
+
+    <!-- ConfigCreditCardsListFragment -->
+    <string name="config_credit_cards_tab_list">Cards</string>
+
+    <string name="credit_card_list_empty">
+       No cards.
+    </string>
+
+    <string name="credit_card_removed">
+        Card removed with success.
+    </string>
+
+    <string name="credit_card_enterprise_label">Type:</string>
+    <string name="credit_card_number_label">Number:</string>
+    <string name="credit_card_owner_name_label">Name:</string>
+
+    <string name="remove_item">Remove</string>
+    <string name="remove_item_going">Removing&#8230;</string>
+
+
+    <!-- ConfigNewCreditCardFragment -->
+    <string name="config_credit_cards_tab_new">New</string>
+
+    <string name="add_credit_card_number_label">Number:</string>
+    <string name="add_credit_card_enterprise_label">Type:</string>
+    <string name="add_credit_card_owner_name_label">
+        Name Card:
+    </string>
+    <string name="add_credit_card_owner_reg_number_label">
+        NIF:
+    </string>
+    <string name="add_credit_card_expiry_label">Date:</string>
+    <string name="add_credit_card_expiry_month_label">Month:</string>
+    <string name="add_credit_card_expiry_year_label">
+        Year:
+    </string>
+    <string name="add_credit_card_security_code_label">
+        Security Code:
+    </string>
+
+    <string name="add_credit_card">Add card</string>
+    <string name="add_credit_card_going">Adding&#8230;</string>
+
+    <string name="invalid_credit_card">
+        Inválid Card.
+    </string>
+</resources>
